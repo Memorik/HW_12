@@ -1,0 +1,14 @@
+E:\DevEducation практика\normar_calc\normar_calc\bin\Debug\normar_calc.exe.config
+E:\DevEducation практика\normar_calc\normar_calc\bin\Debug\normar_calc.exe
+E:\DevEducation практика\normar_calc\normar_calc\bin\Debug\normar_calc.pdb
+E:\DevEducation практика\normar_calc\normar_calc\obj\Debug\normar_calc.csprojAssemblyReference.cache
+E:\DevEducation практика\normar_calc\normar_calc\obj\Debug\normar_calc.csproj.CoreCompileInputs.cache
+E:\DevEducation практика\normar_calc\normar_calc\obj\Debug\normar_calc.exe
+E:\DevEducation практика\normar_calc\normar_calc\obj\Debug\normar_calc.pdb
+I:\DevEducation практика\normar_calc\normar_calc\obj\Debug\Normar_Calc.csprojAssemblyReference.cache
+I:\DevEducation практика\normar_calc\normar_calc\obj\Debug\Normar_Calc.csproj.CoreCompileInputs.cache
+I:\DevEducation практика\normar_calc\normar_calc\obj\Debug\normar_calc.exe
+I:\DevEducation практика\normar_calc\normar_calc\obj\Debug\normar_calc.pdb
+I:\DevEducation практика\normar_calc\normar_calc\bin\Debug\normar_calc.exe.config
+I:\DevEducation практика\normar_calc\normar_calc\bin\Debug\normar_calc.exe
+I:\DevEducation практика\normar_calc\normar_calc\bin\Debug\normar_calc.pdb
